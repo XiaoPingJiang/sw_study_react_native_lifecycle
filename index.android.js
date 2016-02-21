@@ -11,12 +11,13 @@ import React, {
   View
 } from 'react-native';
 
-import SimpleLifeCycle from './simplelifecycle';
+//import SimpleLifeCycle from './simplelifecycle';
+import FullLifeCycle from './fulllifecycle';
 
 class sw_study_react_native_lifecycle extends Component {
   render() {
     return (
-      <SimpleLifeCycle></SimpleLifeCycle>
+      <FullLifeCycle></FullLifeCycle>
     );
   }
 }
