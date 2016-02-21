@@ -1,5 +1,5 @@
 # 生命周期图片
-![](https://raw.githubusercontent.com/FaridSafi/react-native-gifted-listview/master/Captures/ios_refresh_page_demo.gif)
+![](https://github.com/XiaoPingJiang/sw_study_react_native_lifecycle/blob/master/clipboard.png)
 
 # SimpleLifeCycle 案例生命周期
 程序启动时:
